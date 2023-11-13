@@ -1,6 +1,6 @@
 # Instituto Taqtile - Issue Archive
 
-Welcome to the [Instituto Taqtile](https://github.com/instituto-taqtile)'s Issue Archive! 📜
+Welcome to the [Instituto Taqtile](https://github.com/instituto-taqtile)'s Issue Archive! 💾
 
 This repository serves as a centralized hub for documenting and discussing challenges faced by our students during development projects. Here, you'll find a collection of detailed issues, each outlining a specific problem encountered, the diagnostic process, and the ultimate solution.
 
