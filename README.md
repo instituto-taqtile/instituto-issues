@@ -8,7 +8,7 @@ This repository serves as a centralized hub for documenting and discussing chall
 
 1. **Submit an Issue:**
    - Share your coding hurdles, bugs, or challenges faced during development projects.
-   - Use our [template](link-to-your-template.md) to structure your issue for effective communication.
+   - Use our [template](https://github.com/walteraandrade/instituto-issues/blob/main/template.md) to structure your issue for effective communication.
 
 2. **Participate in Discussions:**
    - Engage with fellow students and developers in discussions on existing issues.
