@@ -16,7 +16,7 @@ This repository serves as a centralized hub for documenting and discussing chall
 
 3. **Learn and Grow:**
    - Explore the archived issues to gain insights into common development challenges.
-   - Leverage the collective knowledge of the Developer School community to enhance your problem-solving skills.
+   - Leverage the collective knowledge of the Instituto Taqtile's community to enhance your problem-solving skills.
 
 ## Guidelines
 
