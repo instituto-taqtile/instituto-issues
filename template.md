@@ -19,8 +19,9 @@ Add any extra details that might be relevant to understanding or fixing the prob
 Encourage others to share their insights, alternative solutions, or ask questions related to the described issue.
 
 ## Checklist
-- [ ] Verify that the issue is reproducible.
-- [ ] Include relevant code snippets, error messages, or logs.
+- [ ] Make sure you show not only your success, but also how the problem came about;
+- [ ] To provide how dificult it was to solve the problem you provide experience for yourself and others;
+- [ ] Include relevant code snippets, error messages, or logs;
 - [ ] Check for existing similar issues before creating a new one.
 
 ---
