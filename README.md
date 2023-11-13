@@ -1,4 +1,4 @@
-# Developer School - Issue Archive
+# Instituto Taqtile - Issue Archive
 
 Welcome to the Instituto Taqtile's Issue Archive! 🚀
 
