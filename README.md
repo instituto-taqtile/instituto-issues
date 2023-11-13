@@ -20,9 +20,9 @@ This repository serves as a centralized hub for documenting and discussing chall
 
 ## Guidelines
 
-- **Be Detailed:** Provide thorough descriptions of the problems and steps taken to diagnose and solve them.
-- **Be Respectful:** Foster a positive and collaborative atmosphere by respecting diverse perspectives and experiences.
-- **Contribute Constructively:** Share your knowledge and insights to help others learn and grow.
+- **Be detailed:** Provide thorough descriptions of the problems and steps taken to diagnose and solve them.
+- **Be respectful:** Foster a positive and collaborative atmosphere by respecting diverse perspectives and experiences.
+- **Contribute constructively:** Share your knowledge and insights to help others learn and grow.
 
 Happy coding, and let's build a vibrant community of learners and problem-solvers! 💻
 
