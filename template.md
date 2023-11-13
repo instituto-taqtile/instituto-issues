@@ -20,7 +20,7 @@ Encourage others to share their insights, alternative solutions, or ask question
 
 ## Checklist
 - [ ] Make sure you show not only your success, but also how the problem came about;
-- [ ] To provide how dificult it was to solve the problem you provide experience for yourself and others;
+- [ ] By showing how dificult it was to solve the problem you provide experience for yourself and others;
 - [ ] Include relevant code snippets, error messages, or logs;
 - [ ] Check for existing similar issues before creating a new one.
 
