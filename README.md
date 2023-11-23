@@ -1,28 +1,27 @@
-# Instituto Taqtile - Issue Archive
+# Instituto Taqtile - Arquivo de Problemas
 
-Welcome to the [Instituto Taqtile](https://github.com/instituto-taqtile)'s Issue Archive! 💾
+Bem-vindo ao Arquivo de Problemas do [Instituto Taqtile](https://github.com/instituto-taqtile)! 💾
 
-This repository serves as a centralized hub for documenting and discussing challenges faced by our students during development projects. Here, you'll find a collection of detailed issues, each outlining a specific problem encountered, the diagnostic process, and the ultimate solution.
+Este repositório funciona como um hub centralizado para documentar e discutir desafios enfrentados por nossos alunos durante projetos de desenvolvimento. Aqui, você encontrará uma coleção de problemas detalhados, cada um delineando um problema específico enfrentado, o processo de diagnóstico e a solução final.
 
-## How to Contribute
+## Como Contribuir
 
-1. **Submit an Issue:**
-   - Share your coding hurdles, bugs, or challenges faced during development projects.
-   - Use our [template](https://github.com/walteraandrade/instituto-issues/blob/main/template.md) to structure your issue for effective communication.
+1. **Enviar um Problema:**
+   - Compartilhe seus obstáculos de codificação, bugs ou desafios enfrentados durante projetos de desenvolvimento.
+   - Utilize nosso [modelo](https://github.com/walteraandrade/instituto-issues/blob/main/template.md) para estruturar seu problema para uma comunicação eficaz.
 
-2. **Participate in Discussions:**
-   - Engage with fellow students and developers in discussions on existing issues.
-   - Share insights, alternative solutions, or ask questions to foster a collaborative learning environment.
+2. **Participar de Discussões:**
+   - Engaje-se com colegas alunos e desenvolvedores em discussões sobre problemas existentes.
+   - Compartilhe insights, soluções alternativas ou faça perguntas para promover um ambiente colaborativo de aprendizado.
 
-3. **Learn and Grow:**
-   - Explore the archived issues to gain insights into common development challenges.
-   - Leverage the collective knowledge of the Instituto Taqtile's community to enhance your problem-solving skills.
+3. **Aprender e Crescer:**
+   - Explore os problemas arquivados para obter insights sobre desafios comuns de desenvolvimento.
+   - Aproveite o conhecimento coletivo da comunidade do Instituto Taqtile para aprimorar suas habilidades de resolução de problemas.
 
-## Guidelines
+## Diretrizes
 
-- **Be detailed:** Provide thorough descriptions of the problems and steps taken to diagnose and solve them.
-- **Be respectful:** Foster a positive and collaborative atmosphere by respecting diverse perspectives and experiences.
-- **Contribute constructively:** Share your knowledge and insights to help others learn and grow.
+- **Seja detalhado:** Forneça descrições detalhadas dos problemas e etapas tomadas para diagnosticar e resolvê-los.
+- **Seja respeitoso:** Fomente uma atmosfera positiva e colaborativa, respeitando perspectivas e experiências diversas.
+- **Contribua de maneira construtiva:** Compartilhe seu conhecimento e insights para ajudar outros a aprender e crescer.
 
-Happy coding, and let's build a vibrant community of learners and problem-solvers! 💻
-
+Happy coding! 💻
