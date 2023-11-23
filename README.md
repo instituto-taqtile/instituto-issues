@@ -1,6 +1,6 @@
-# Instituto Taqtile - Arquivo de Problemas
+# Instituto Taqtile - Arquivo de Issues
 
-Bem-vindo ao Arquivo de Problemas do [Instituto Taqtile](https://github.com/instituto-taqtile)! 💾
+Bem-vindo ao Arquivo de Issues do [Instituto Taqtile](https://github.com/instituto-taqtile)! 💾
 
 Este repositório funciona como um hub centralizado para documentar e discutir desafios enfrentados por nossos alunos durante projetos de desenvolvimento. Aqui, você encontrará uma coleção de problemas detalhados, cada um delineando um problema específico enfrentado, o processo de diagnóstico e a solução final.
 
