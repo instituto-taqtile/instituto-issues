@@ -1,6 +1,6 @@
-## Título do Problema
+## Título da Issue
 
-### Qual é o Problema
+### Qual é a Issue
 Descreva detalhadamente o problema que você encontrou. Seja específico sobre os sintomas, mensagens de erro ou comportamentos inesperados.
 
 ### Como Diagnosticar
