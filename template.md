@@ -1,30 +1,29 @@
-## Issue Title
+## Título do Problema
 
-### What's the Problem
-Describe the problem you encountered in detail. Be specific about the symptoms, error messages, or unexpected behavior.
+### Qual é o Problema
+Descreva detalhadamente o problema que você encontrou. Seja específico sobre os sintomas, mensagens de erro ou comportamentos inesperados.
 
-### How to Diagnose It
-Explain the steps you took to diagnose the issue. Include any tools, logs, or debugging techniques you used to identify the root cause.
+### Como Diagnosticar
+Explique as etapas que você realizou para diagnosticar o problema. Inclua ferramentas, registros ou técnicas de depuração que você utilizou para identificar a causa raiz.
 
-### How We Failed to Diagnose It
-Share any challenges or mistakes encountered during the diagnostic process. This helps others learn from the experience and avoid similar pitfalls.
+### Como Falhamos ao Diagnosticar
+Compartilhe quaisquer desafios ou erros encontrados durante o processo de diagnóstico. Isso ajuda outros a aprender com a experiência e a evitar armadilhas semelhantes.
 
-### How to Fix It
-Provide a clear and concise solution to the problem. Include code snippets, configuration changes, or any other necessary steps to resolve the issue.
+### Como Corrigir
+Forneça uma solução clara e concisa para o problema. Inclua trechos de código, alterações de configuração ou quaisquer outras etapas necessárias para resolver o problema.
 
-### Additional Information
-Add any extra details that might be relevant to understanding or fixing the problem. This could include related issues, dependencies, or specific environments where the issue occurs.
+### Informações Adicionais
+Adicione quaisquer detalhes extras que possam ser relevantes para entender ou corrigir o problema. Isso pode incluir problemas relacionados, dependências ou ambientes específicos nos quais o problema ocorre.
 
-## Discussion
-Encourage others to share their insights, alternative solutions, or ask questions related to the described issue.
+## Discussão
+Incentive outros a compartilhar suas percepções, soluções alternativas ou fazer perguntas relacionadas ao problema descrito.
 
-## Checklist
-- [ ] Make sure you show not only your success, but also how the problem came about;
-- [ ] By showing how dificult it was to solve the problem you provide experience for yourself and others;
-- [ ] Include relevant code snippets, error messages, or logs;
-- [ ] Check for existing similar issues before creating a new one.
+## Lista de Verificação
+- [ ] Certifique-se de mostrar não apenas o sucesso, mas também como o problema surgiu;
+- [ ] Ao mostrar o quão difícil foi resolver o problema, você fornece experiência para si mesmo e para os outros;
+- [ ] Inclua trechos relevantes de código, mensagens de erro ou registros;
+- [ ] Verifique a existência de problemas semelhantes antes de criar um novo.
 
 ---
 
-**Note:** Make sure to replace the placeholders with actual content when creating a new issue.
-
+**Nota:** Certifique-se de substituir os espaços reservados por conteúdo real ao criar um novo problema.
