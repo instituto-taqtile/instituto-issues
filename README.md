@@ -8,7 +8,7 @@ Este repositório funciona como um hub centralizado para documentar e discutir d
 
 1. **Enviar um Problema:**
    - Compartilhe seus obstáculos de codificação, bugs ou desafios enfrentados durante projetos de desenvolvimento.
-   - Utilize nosso [modelo](https://github.com/walteraandrade/instituto-issues/blob/main/template.md) para estruturar seu problema para uma comunicação eficaz.
+   - Utilize nossos modelos -[issue](https://github.com/walteraandrade/instituto-issues/blob/main/template.md), [feature](https://github.com/instituto-taqtile/instituto-issues/blob/main/feature.md)- para estruturar seu problema para uma comunicação eficaz.
 
 2. **Participar de Discussões:**
    - Engaje-se com colegas alunos e desenvolvedores em discussões sobre problemas existentes.
